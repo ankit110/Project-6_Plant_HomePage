@@ -4,7 +4,7 @@
 
 # 📌 ** Project Link 👇** 
 
-**[Plant_Home_Landing_page](https://chimerical-tartufo-5eaf4c.netlify.app/)**
+**[Plant_Home_Landing_page](https://dapper-sprinkles-c2d509.netlify.app/)**
 
 # 📌 This Project is given in **"JavaScript Full stack Web Development Bootcamp"** by iNeuron.
 
